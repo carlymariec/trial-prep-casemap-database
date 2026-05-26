@@ -1,0 +1,35 @@
+---
+fileClass: Case
+CaseName: <<Enter the name/title of the case>>
+DateOpened: <<Enter the date the case was opened>>
+Court: <<Specify the court where the case is filed>>
+CaseNumber: <<Enter the unique case number>>
+Jurisdiction: <<Describe the jurisdiction>>
+Status: <<Enter status: e.g., Open, Closed, Pending>>
+Description: <<Short summary of what the case is about>>
+KeyFacts: <<List key facts or cross-link Fact notes>>
+People: <<List people or cross-link Person notes>>
+Issues: <<List issues or cross-link Issue notes>>
+RelatedDocuments: <<List or link related documents/evidence>>
+Tags: <<Add any tags relevant to this case>>
+---
+
+# Case: <<Enter the name/title of the case>>
+
+## Description
+<<Provide a brief overview or summary of the case, including important context or background information.>>
+
+## Key Facts
+- <<Link to Fact notes or list key facts>>
+- 
+
+## People
+- <<Link to relevant Person notes, e.g., [[Person1]] (Role: Plaintiff)>>
+- 
+
+## Issues
+- <<Link to relevant Issue notes>>
+- 
+
+## Related Documents
+- <<Link or list any relevant documents or evidence, e.g., [Filename.pdf](../Evidence/Filename.pdf)>>
