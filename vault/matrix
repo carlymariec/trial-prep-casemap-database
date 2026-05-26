@@ -1,0 +1,18 @@
+# Evidence Matrix
+
+This table links evidence items to the facts, issues, people, and cases they relate to.  
+Replace each `[[Evidence...]]`, `[[Fact...]]`, etc. with the actual files/notes that exist in your vault.
+
+| Evidence            | Fact(s) Related               | Issue(s) Related         | Person(s) Related          | Case(s) Related        | Notes/instructions                  |
+|---------------------|------------------------------|--------------------------|----------------------------|------------------------|-------------------------------------|
+| [[Evidence_ExhibitA]] | [[Fact_SignedContract]], [[Fact_Delivery]] | [[Issue_BreachOfContract]] | [[Person_Alice_Smith]], [[Person_Bob_Jones]] | [[Case_Smith_v_Jones]] | Example row. Replace with your own. |
+| [[Evidence_ExhibitB]] | [[Fact_Email]]             | [[Issue_Damages]]        | [[Person_Bob_Jones]]       | [[Case_Smith_v_Jones]] |                                     |
+| [[Evidence_<add_title>]] | [[Fact_<add_fact>]]         | [[Issue_<add_issue>]]    | [[Person_<add_person>]]    | [[Case_<add_case>]]    | Fill in for each new evidence item. |
+
+---
+
+**Instructions:**  
+- For each new piece of evidence, add a row.
+- Add links to the relevant fact, issue, person, and case note using Obsidian’s `[[WikiLinks]]`.
+- Use the "Notes/instructions" column for sourcing, admissibility, authenticity, or other special notes.
+- You can add or remove columns as needed for your practice (e.g., Law/Procedure, Chain of Custody, Doc Type, etc.).
