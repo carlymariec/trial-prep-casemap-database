@@ -52,4 +52,4 @@ Build output is written to `main.js`.
 
 ## License
 
-MIT — see `/tmp/workspace/carlymariec/obsidian_style_casemap_database/LICENSE`.
+MIT — see `LICENSE`.
