@@ -1,0 +1,36 @@
+---
+fileClass: Evidence
+EvidenceTitle: "Give a name or title to this evidence/exhibit"
+Type: "Specify the type (Document/Image/Audio/Other)"
+FileName: "Enter the file name or path to the file (if attached)"
+DateTime: "Date/time associated with the evidence"
+Source: "Explain the origin of the evidence (where/how acquired)"
+Uploader: "Name of person uploading this evidence"
+Annotations: "Add observations or notes about the evidence"
+RelatedFacts: "Link to facts this evidence supports"
+RelatedPeople: "Link to people associated with this item"
+RelatedCases: "Link to related case(s)"
+RelatedIssues: "Link to issues this evidence relates to"
+Tags: "Add relevant tags (optional)"
+---
+# Evidence: {{EvidenceTitle}}
+
+**Type:** {{Type}}  
+**File(s):** [{{FileName}}](../Evidence/{{FileName}})  
+**Date/Time:** {{DateTime}}  
+**Source/Origin:** {{Source}}  
+**Uploaded by:** {{Uploader}}  
+**Annotations:**  
+- {{Add notes or explanations about the exhibit}}
+
+## Related Facts
+- [[Link to fact(s) supported or established by this evidence]]
+
+## Related People
+- [[Link to people associated]]
+
+## Related Cases
+- [[Link to cases where this is relevant]]
+
+## Related Issues
+- [[Link to issues this evidence addresses]]
