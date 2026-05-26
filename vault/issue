@@ -1,0 +1,21 @@
+---
+fileClass: Issue
+IssueTitle: "State the main question/dispute/issue"
+Status: "Open, Closed, Pending, etc."
+RelatedCase: "Link to the main case"
+Category: "Describe the type (Legal/Procedural/Factual/etc.)"
+Description: "Describe the core of this issue—what is in dispute?"
+KeyFacts: "Link to facts that affect or resolve this issue"
+Tags: "Add relevant tags (optional)"
+---
+# Issue: {{IssueTitle}}
+
+**Status:** {{Status}}  
+**Related Case:** [[Link to case]]  
+**Category:** {{Category}}
+
+## Description
+{{Description}}
+
+## Key Facts
+- [[Link to relevant facts]]
