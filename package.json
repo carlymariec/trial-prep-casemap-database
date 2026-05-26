@@ -1,0 +1,33 @@
+{
+  "name": "obsidian-style-casemap-database",
+  "version": "1.0.0",
+  "description": "Obsidian community plugin for case mapping workflows.",
+  "main": "main.js",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlymariec/obsidian_style_casemap_database.git"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "legal",
+    "casemap"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carlymariec/obsidian_style_casemap_database/issues"
+  },
+  "homepage": "https://github.com/carlymariec/obsidian_style_casemap_database#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "esbuild": "^0.28.0",
+    "obsidian": "^1.12.3",
+    "typescript": "^6.0.3"
+  }
+}
