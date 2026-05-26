@@ -21,15 +21,17 @@ Tags:
 
 ## Key Facts
 - [[Fact1]]
-- [[Fact2]]
+...
 
 ## People
 - [[Person1]] (Role)
-- [[Person2]]
+...
 
 ## Issues
 - [[Issue1]]
-- [[Issue2]]
+...
 
 ## Related Documents
 - [ ]
+
+----
