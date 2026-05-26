@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carlymariec/obsidian_style_casemap_database.git"
+    "url": "git+https://github.com/carlymariec/obsidian-style-casemap-database.git"
   },
   "keywords": [
     "obsidian",
@@ -21,9 +21,9 @@
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/carlymariec/obsidian_style_casemap_database/issues"
+    "url": "https://github.com/carlymariec/obsidian-style-casemap-database/issues"
   },
-  "homepage": "https://github.com/carlymariec/obsidian_style_casemap_database#readme",
+  "homepage": "https://github.com/carlymariec/obsidian-style-casemap-database#readme",
   "devDependencies": {
     "@types/node": "^25.9.1",
     "esbuild": "^0.28.0",
