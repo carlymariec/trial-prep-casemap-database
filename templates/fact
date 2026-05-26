@@ -1,0 +1,18 @@
+# Fact: {{FactSummary}}
+
+**Date/Time:** {{DateTime}}  
+**Source:** {{SourceDocsOrPersons}}  
+**Significance:** {{High/Medium/Low}}  
+
+## Details
+{{DetailedDescription}}
+
+## Related Case
+- [[CaseName]]
+
+## Involved People
+- [[Person1]]
+- [[Person2]]
+
+## Related Issue
+- [[Issue1]]
