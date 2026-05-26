@@ -49,3 +49,7 @@ Build output is written to `main.js`.
 - `manifest.json` – Obsidian plugin metadata
 - `versions.json` – plugin version compatibility
 - `templates/` and `vault/` – legacy project content retained for reference
+
+## License
+
+MIT — see `/tmp/workspace/carlymariec/obsidian_style_casemap_database/LICENSE`.
