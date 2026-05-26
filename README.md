@@ -4,17 +4,11 @@ This repository is an Obsidian community plugin that creates and manages a CaseM
 
 ## Features
 
-- **Initialize CaseMap database structure**:  
-  Creates folders: `Cases`, `Facts`, `People`, `Issues`, `Evidence`, `Chronology`, `Matrix`, `FileClasses`, `Templates`  
-  Seeds starter templates and fileClass definition files.
-- **Generate CaseMap indexes**:  
-  Updates `_index.md` files in primary folders.
-- **Generate master chronology**:  
-  Builds `Chronology/master_chronology.md` from date-tagged notes.
-- **Generate evidence matrix**:  
-  Builds `Matrix/evidence_matrix.md` from Evidence note relationships.
-- **Generate FileClass field index**:  
-  Builds `FileClasses/_fileclass_index.md`.
+- **Initialize CaseMap database structure**: Creates folders (`Cases`, `Facts`, `People`, `Issues`, `Evidence`, `Chronology`, `Matrix`, `FileClasses`, `Templates`) and seeds starter templates and fileClass definition files.
+- **Generate CaseMap indexes**: Updates `_index.md` files in primary folders.
+- **Generate master chronology**: Builds `Chronology/master_chronology.md` from date-tagged notes.
+- **Generate evidence matrix**: Builds `Matrix/evidence_matrix.md` from Evidence note relationships.
+- **Generate FileClass field index**: Builds `FileClasses/_fileclass_index.md`.
 
 ## Getting Started
 
