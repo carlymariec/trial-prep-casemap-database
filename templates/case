@@ -1,0 +1,29 @@
+# Case: {{CaseName}}
+
+**Date Opened:** {{DateOpened}}  
+**Court:** {{Court}}  
+**Case Number:** {{CaseNumber}}  
+**Jurisdiction:** {{Jurisdiction}}  
+**Status:** {{Status}}  
+
+## Description
+{{Description}}
+
+## Key Facts
+- [[Fact1]]
+- [[Fact2]]
+
+## People
+- [[Person1]] (Role: {{Role}})
+- [[Person2]]
+
+## Issues
+- [[Issue1]]
+- [[Issue2]]
+
+## Related Documents
+- [ ]
+
+---
+**Links:**  
+- [All Facts](../Facts/) | [All People](../People/) | [All Issues](../Issues/)
