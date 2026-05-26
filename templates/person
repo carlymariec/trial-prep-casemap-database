@@ -1,0 +1,15 @@
+# Person: {{FullName}}
+
+**Role:** {{Party/Lawyer/Witness/etc}}  
+**Contact:** {{Phone/Email}}  
+**Affiliation:** {{Affiliation/Employer}}  
+**Notes:**  
+{{Notes}}
+
+## Related Cases
+- [[CaseName1]]
+- [[CaseName2]]
+
+## Associated Facts
+- [[Fact1]]
+- [[Fact2]]
