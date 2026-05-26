@@ -1,0 +1,37 @@
+obsidian-style-case-map-database/
+├── .obsidian/
+├── templates/
+│   ├── fileClass/
+│   │   ├── Case.fileclass.md
+│   │   ├── Fact.fileclass.md
+│   │   ├── Person.fileclass.md
+│   │   ├── Evidence.fileclass.md
+│   │   ├── Issue.fileclass.md
+│   │   └── Chronology.fileclass.md
+│   ├── Case Template.md
+│   ├── Fact Template.md
+│   ├── Person Template.md
+│   ├── Evidence Template.md
+│   ├── Issue Template.md
+│   └── Chronology Item Template.md
+├── scripts/
+│   ├── generate-index.js
+│   ├── generate-chronology.js
+│   ├── generate-evidence-matrix.js
+│   └── generate-fileclass-fields.js
+├── vault/
+│   ├── Cases/
+│   ├── Facts/
+│   ├── People/
+│   ├── Evidence/
+│   ├── Issues/
+│   ├── Chronology/
+│   ├── Matrix/
+│   └── FileClasses/
+│       ├── Case.fileclass.md
+│       ├── Fact.fileclass.md
+│       ├── Person.fileclass.md
+│       ├── Evidence.fileclass.md
+│       ├── Issue.fileclass.md
+│       └── Chronology.fileclass.md
+└── README.md
