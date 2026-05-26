@@ -28,11 +28,12 @@ This repository is an Obsidian community plugin that creates and manages a CaseM
    - Turn off **Restricted mode**
    - Enable **CaseMap Database**
 
-5. **Usage:**
-   - Open the Command Palette (`Ctrl+P` or `Cmd+P`)
-   - Run `Initialize CaseMap database structure`
-   - Explore the created folders, templates, and indexes
-   - Use additional plugin commands as needed
+## Usage
+
+1. Open the Command Palette (`Ctrl+P` or `Cmd+P`)
+2. Run `Initialize CaseMap database structure`
+3. Explore the created folders, templates, and indexes
+4. Use additional plugin commands as needed
 
 ## Example Output
 
