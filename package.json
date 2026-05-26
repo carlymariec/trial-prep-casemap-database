@@ -1,18 +1,24 @@
 {
-  "name": "obsidian_style_casemap_database",
+  "name": "obsidian-style-casemap-database",
   "version": "1.0.0",
-  "description": "A comprehensive, extensible Obsidian vault and workflow inspired by LexisNexis CaseMap.   Includes advanced fileClass design, custom field templates, evidence/chronology/matrix management, automation scripts, and plugin-neutral organization.   **Works great on desktop and iPad (see iPad instructions below).**",
-  "main": "index.js",
+  "description": "Obsidian community plugin for case mapping workflows.",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build.js",
+    "dev": "node build.js --watch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/carlymariec/obsidian_style_casemap_database.git"
   },
-  "keywords": [],
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "legal",
+    "casemap"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/carlymariec/obsidian_style_casemap_database/issues"

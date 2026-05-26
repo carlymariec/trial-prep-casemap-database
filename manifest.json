@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-style-casemap-database",
+  "name": "CaseMap Database",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Create and maintain a CaseMap-style legal database inside Obsidian.",
+  "author": "carlymariec",
+  "authorUrl": "https://github.com/carlymariec",
+  "isDesktopOnly": false
+}
