@@ -1,0 +1,29 @@
+---
+fileClass: Fact
+FactSummary: "Short summary of the fact"
+DateTime: "Date and time when the fact occurred (if known)"
+SourceDocsOrPersons: "List or link source documents or witnesses for this fact"
+Significance: "Explain why this fact is important (High/Medium/Low, or sentence)"
+DetailedDescription: "Provide a detailed narrative of what happened"
+RelatedCase: "Link to the related case"
+InvolvedPeople: "Link to people directly involved"
+RelatedIssue: "Link to the legal issue(s) this fact relates to"
+Tags: "Add relevant tags (optional)"
+---
+# Fact: {{FactSummary}}
+
+**Date/Time:** {{DateTime}}  
+**Source:** {{SourceDocsOrPersons}}  
+**Significance:** {{Significance}}
+
+## Details
+{{DetailedDescription}}
+
+## Related Case
+- [[Link to the main case]]
+
+## Involved People
+- [[Link to people or parties mentioned]]
+
+## Related Issue
+- [[Link to issue if applicable]]
