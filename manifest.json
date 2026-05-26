@@ -1,10 +1,11 @@
 {
-  "id": "obsidian-style-casemap-database",           
-  "name": "Obsidian Style Casemap Database",         
+  "id": "obsidian_style_casemap_database",           
+  "name": "obsidian_style_casemap_database",         
   "version": "1.0.0",                               
   "minAppVersion": "1.0.0",                         
   "description": "A plugin that manages case maps in a database-style view.",
   "author": "carlymariec",
   "authorUrl": "https://github.com/carlymariec",
-  "isDesktopOnly": false
+  "isDesktopOnly": false,
+  "fundingUrl": "https://github.com/sponsors/carlymariec"
 }
