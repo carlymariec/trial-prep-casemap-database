@@ -6,6 +6,6 @@
   "description": "A plugin that manages case maps in a database-style view.",
   "author": "carlymariec",
   "authorUrl": "https://github.com/carlymariec",
-  "isDesktopOnly": "True",
+  "isDesktopOnly": True,
   "fundingUrl": "https://github.com/sponsors/carlymariec"
 }
