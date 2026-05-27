@@ -1,11 +1,11 @@
 {
-  "id": "obsidian-style-casemap-database",           
-  "name": "obsidian-style-casemap-database",         
+  "id": "trial-prep-casemap-database",           
+  "name": "CCMap",         
   "version": "1.0.0",                               
-  "minAppVersion": "1.0.0",                         
+  "minAppVersion": "1.5.0",                         
   "description": "A plugin that manages case maps in a database-style view.",
   "author": "carlymariec",
   "authorUrl": "https://github.com/carlymariec",
-  "isDesktopOnly": false,
+  "isDesktopOnly": "true",
   "fundingUrl": "https://github.com/sponsors/carlymariec"
 }
